@@ -1,2 +1,2 @@
-# trelalulo.github.io
+# trelalulo
 Sandbox for exploring GitHub Pages
